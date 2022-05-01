@@ -1,0 +1,1 @@
+/home/cyrus/Desktop/blockchain/near/near-spring-hackethon/sec/Near-ukrain-zoo-nft/contract/target/wasm32-unknown-unknown/debug/libnft_minter.rlib: /home/cyrus/Desktop/blockchain/near/near-spring-hackethon/sec/Near-ukrain-zoo-nft/contract/src/lib.rs
